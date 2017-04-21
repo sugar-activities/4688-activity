@@ -1,0 +1,8 @@
+
+[Activity]
+name = Buuble Toon Top
+activity_version = 150
+bundle_id = org.ceibaljam.bubblebaster34xdcome
+exec = sugar-activity JAMActivityFlash.JAMActivityFlash
+icon = JAMActivityFlash
+show_launcher = yes
